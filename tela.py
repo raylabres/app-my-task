@@ -2,7 +2,7 @@ import customtkinter as ctk
 from PIL import Image, ImageTk
 import back
 
-arquivo_fundo = "C:/Desenvolvimento/Projetos/lista-tarefas/imagens/fundo.png"
+arquivo_fundo = "C:/Desenvolvimento/Projetos/app-my-task/imagens/fundo.png"
 
 def mostrar_tela_menu():
     tela_menu.place(x=0, y=0)
